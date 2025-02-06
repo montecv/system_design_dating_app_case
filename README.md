@@ -1,6 +1,7 @@
 # Global Dating Service Design  
 
-## Overview  
+## Overview
+This project was developed as part of a **System Design course** in Fall 2023.  
 The goal of this project was to design a **global dating service** similar to Tinder.  
 The system includes a **mobile application** and a **web interface**, available and localized in multiple countries.  
 
@@ -16,6 +17,9 @@ The system includes a **mobile application** and a **web interface**, available 
 - **Reporting system** – No handling of user complaints or content moderation.  
 - **Media sharing** – No support for sending images or videos in chat.  
 - **Location tracking & logs** – No storage of user movement history.  
+
+## Functional and non-functional requirements
+see [requirements.md](requirements.md).
 
 ## High-Level Design  
 A broad architectural overview of the system:  
